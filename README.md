@@ -56,7 +56,7 @@ compile. If you are on macOS and have used Claude Code, you already meet the req
 ## Install
 
 ```bash
-git clone https://github.com/ORG/ccstatus.git
+git clone https://github.com/Insight-XR/ccstatus.git
 cd ccstatus
 ./install.sh
 ```
